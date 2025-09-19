@@ -19,3 +19,27 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 - Cada **Veículo** pode gerar várias **Ordens de Serviço (OS)**.  
 - Cada **OS** é atribuída a uma **Equipe**, que é composta por vários **Mecânicos**.  
 - Uma **OS** pode incluir diversos **Serviços** e **Peças**.
+
+## APROMORAMENTO:
+
+📌 Etapas do Projeto
+
+Criação do esquema lógico a partir do modelo ER.
+
+Implementação do script SQL para criação do banco OficinaDB.
+
+Inserção de dados de teste (clientes, veículos, equipes, mecânicos, ordens de serviço, serviços e peças).
+
+Elaboração de consultas SQL utilizando:
+
+WHERE (filtros)
+
+Expressões para atributos derivados
+
+Ordenações com ORDER BY
+
+Agrupamentos com HAVING
+
+JOIN entre múltiplas tabelas
+
+
